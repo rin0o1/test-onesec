@@ -11,7 +11,7 @@ const MainLandingPage = () => {
       <div className="main-heading">
       <p>
         <h2>
-          Welcome to Onesec
+          Welcome to Opsec
         </h2>
         <h2 id="focus-txt">
           To The
