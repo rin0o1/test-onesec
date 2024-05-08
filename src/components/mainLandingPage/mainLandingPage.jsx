@@ -11,10 +11,10 @@ const MainLandingPage = () => {
       <div className="main-heading">
       <p>
         <h2>
-          Welcome to Onesec
+          Welcome Tomon!
         </h2>
         <h2 id="focus-txt">
-          To The
+          Celebrate your victory!
         </h2>
         <h2>
           <Typewriter
