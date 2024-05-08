@@ -11,7 +11,7 @@ const MainLandingPage = () => {
       <div className="main-heading">
       <p>
         <h2>
-          Welcome Tomon!
+          Welcome Tomon!(without vercel)
         </h2>
         <h2 id="focus-txt">
           Celebrate your victory!
