@@ -14,7 +14,7 @@ const MainLandingPage = () => {
           Welcome Tomon!
         </h2>
         <h2 id="focus-txt">
-          Celebrate your victory!
+          You are a winner!
         </h2>
         <h2>
           <Typewriter
