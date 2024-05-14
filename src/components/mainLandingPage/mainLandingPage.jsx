@@ -11,7 +11,7 @@ const MainLandingPage = () => {
       <div className="main-heading">
       <p>
         <h2>
-          Welcome Team1!
+          Welcome Team!
         </h2>
         <h2 id="focus-txt">
           You are a winner!
